@@ -1,0 +1,17 @@
+{
+  "name": "sim",
+  "version": "1.0.0",
+  "description": "airplane simulation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Alex Robey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socker.io": "0.0.0-alpha-beta",
+    "socket.io": "^2.3.0"
+  }
+}

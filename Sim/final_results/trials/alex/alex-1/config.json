@@ -1,0 +1,1 @@
+{"speed":{"max":5,"min":0.5,"step":0.2,"init":2},"ang_speed":{"max":0.1,"min":-0.1,"step":0.004,"init":0},"center_radius":50,"launch_radius":20,"world_size":{"x":961,"y":721},"freq":30}
