@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "socker.io": "0.0.0-alpha-beta",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
