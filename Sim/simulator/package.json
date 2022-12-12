@@ -10,7 +10,7 @@
   "author": "Alex Robey",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socker.io": "0.0.0-alpha-beta",
     "socket.io": "^2.3.0"
   }
